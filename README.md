@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [注解@Async解决异步调用问题](https://www.mmzsblog.cn/articles/2019/09/20/1568965632142.html)
 * [微信小程序:文本内容敏感字符检测](https://www.mmzsblog.cn/articles/2019/09/19/1568887804857.html)
 * [我在 GitHub 上的开源项目](https://www.mmzsblog.cn/my-github-repos)
 * [Unity之SDK接入（Unity与Android通信）](https://www.mmzsblog.cn/articles/2019/09/11/1568211223627.html)
@@ -29,7 +30,6 @@
 * [unity基础](https://www.mmzsblog.cn/articles/2019/08/21/1566382177030.html)
 * [使用IO流读写文件的一些骚操作](https://www.mmzsblog.cn/articles/2019/08/20/1566309336375.html)
 * [ftp上传与下载文件](https://www.mmzsblog.cn/articles/2019/08/20/1566309291864.html)
-* [服务器linux centos 7.4 搭建ftp服务器](https://www.mmzsblog.cn/articles/2019/08/20/1566309142008.html)
 
 ### 热门
 
@@ -44,14 +44,14 @@
 * [水果机抽奖（CocosCreator）](https://www.mmzsblog.cn/articles/2019/08/09/1565361048793.html)
 * [CocosCreator上的游戏（调试）发布到微信小程序](https://www.mmzsblog.cn/articles/2019/08/09/1565362167324.html)
 * [SpringCloud（八）：sidecar异构微服务](https://www.mmzsblog.cn/articles/2019/08/06/1565078073512.html)
+* [拖动水滴给土地浇水（CocosCreator）](https://www.mmzsblog.cn/articles/2019/08/09/1565360848369.html)
 * [Git的使用](https://www.mmzsblog.cn/articles/2019/08/05/1564991521185.html)
 * [初级程序员需要知道的基本代码规范](https://www.mmzsblog.cn/articles/2019/08/08/1565255455760.html)
-* [拖动水滴给土地浇水（CocosCreator）](https://www.mmzsblog.cn/articles/2019/08/09/1565360848369.html)
 * [玩转SpringBoot之整合Mybatis拦截器对数据库水平分表](https://www.mmzsblog.cn/articles/2019/08/08/1565249428372.html)
+* [SpringCloud（二）：Feign-单独使用及对hystrix的支持配置](https://www.mmzsblog.cn/articles/2019/08/06/1565077848633.html)
 * [关卡界面中个人信息随解锁关卡的移动（CocosCreator）](https://www.mmzsblog.cn/articles/2019/08/09/1565361531860.html)
 * [Spring学习(二)：Spring支持的5种Bean Scope](https://www.mmzsblog.cn/articles/2019/08/19/1566204401814.html)
 * [excle文件的数据处理](https://www.mmzsblog.cn/articles/2019/08/06/1565077029866.html)
-* [SpringCloud（二）：Feign-单独使用及对hystrix的支持配置](https://www.mmzsblog.cn/articles/2019/08/06/1565077848633.html)
 * [Spring注解开发-查询手册及源码分析](https://www.mmzsblog.cn/articles/2019/08/07/1565162136695.html)
 
 ### 热议
@@ -65,7 +65,6 @@
 * [SpringCloud（九）：Zuul之Filter详解](https://www.mmzsblog.cn/articles/2019/08/06/1565078123439.html)
 * [SpringCloud（十一）：SringCloud Config-配置Git仓库详解](https://www.mmzsblog.cn/articles/2019/08/06/1565078182745.html)
 * [工具及经验总结](https://www.mmzsblog.cn/articles/2019/08/07/1565161662449.html)
-* [注解@CrossOrigin详解](https://www.mmzsblog.cn/articles/2019/08/08/1565236280771.html)
 * [玩转SpringBoot之MyBatisplus自动化构建工具](https://www.mmzsblog.cn/articles/2019/08/08/1565236458796.html)
 * [创建简单的npm脚手架](https://www.mmzsblog.cn/articles/2019/08/08/1565255500726.html)
 * [一文详解集合的不同之处 ](https://www.mmzsblog.cn/articles/2019/08/08/1565255569239.html)
@@ -76,6 +75,7 @@
 * [单选多选（CocosCreator）](https://www.mmzsblog.cn/articles/2019/08/09/1565361192016.html)
 * [修改预制体效果无变化（unity&&CocosCreator）](https://www.mmzsblog.cn/articles/2019/08/09/1565361694233.html)
 * [大转盘（CocosCreator）](https://www.mmzsblog.cn/articles/2019/08/09/1565361901961.html)
+* [Spring学习(零)：我们为什么要学习Spring](https://www.mmzsblog.cn/articles/2019/08/19/1566204001282.html)
 
 ---
 
