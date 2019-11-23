@@ -1,9 +1,9 @@
-<p align="center"><img alt="mmzsblog 的个人博客" src="https://www.mmzsblog.cn/images/mmzsit.png"></p><h2 align="center">
-mmzsblog 的个人博客
+<p align="center"><img alt="淼淼之森" src="https://www.mmzsblog.cn/images/mmzsit.png"></p><h2 align="center">
+淼淼之森
 </h2>
 
-<h4 align="center">记录精彩的程序人生</h4>
-<p align="center"><a title="mmzsblog 的个人博客" target="_blank" href="https://github.com/mmzsblog/solo-blog"><img src="https://img.shields.io/github/last-commit/mmzsblog/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<h4 align="center">程序员说：懒人更习惯于思考，再没有比编程更纯粹的事儿了！</h4>
+<p align="center"><a title="淼淼之森" target="_blank" href="https://github.com/mmzsblog/solo-blog"><img src="https://img.shields.io/github/last-commit/mmzsblog/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/mmzsblog/solo-blog"><img src="https://img.shields.io/github/repo-size/mmzsblog/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/mmzsblog/solo-blog.svg"></a></p>
@@ -38,8 +38,8 @@ mmzsblog 的个人博客
 * [IDEA开发必备插件](https://www.mmzsblog.cn/articles/2019/08/05/1564991559394.html)
 * [如何交换友情链接](https://www.mmzsblog.cn/articles/2019/08/19/1566201476640.html)
 * [水果机抽奖（CocosCreator）](https://www.mmzsblog.cn/articles/2019/08/09/1565361048793.html)
-* [SpringCloud学习中遇到的一些bug](https://www.mmzsblog.cn/articles/2019/08/06/1565078225369.html)
 * [CocosCreator上的游戏（调试）发布到微信小程序](https://www.mmzsblog.cn/articles/2019/08/09/1565362167324.html)
+* [SpringCloud学习中遇到的一些bug](https://www.mmzsblog.cn/articles/2019/08/06/1565078225369.html)
 * [SpringCloud（零）：深入理解Eureka](https://www.mmzsblog.cn/articles/2019/08/06/1565077729804.html)
 * [Git的使用](https://www.mmzsblog.cn/articles/2019/08/05/1564991521185.html)
 * [初级程序员需要知道的基本代码规范](https://www.mmzsblog.cn/articles/2019/08/08/1565255455760.html)
