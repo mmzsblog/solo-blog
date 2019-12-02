@@ -5,12 +5,12 @@
 <h4 align="center">程序员说：懒人更习惯于思考，再没有比编程更纯粹的事儿了！</h4>
 <p align="center"><a title="淼淼之森" target="_blank" href="https://github.com/mmzsblog/solo-blog"><img src="https://img.shields.io/github/last-commit/mmzsblog/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/mmzsblog/solo-blog"><img src="https://img.shields.io/github/repo-size/mmzsblog/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/mmzsblog/solo-blog.svg"></a></p>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/mmzsblog/solo-blog.svg"></a></p>
 
 ### 最新
 
-* [学习使我进步！打卡送书活动第①期！](https://www.mmzsblog.cn/articles/2019/11/15/1573798650064.html)
+* [【结束】学习使我进步！打卡送书活动第①期！](https://www.mmzsblog.cn/articles/2019/11/15/1573798650064.html)
 * [unity之龙骨动画](https://www.mmzsblog.cn/articles/2019/10/23/1571829732670.html)
 * [unity+lua(lua代码优化)](https://www.mmzsblog.cn/articles/2019/10/23/1571815023009.html)
 * [程序员日常：文章汇总](https://www.mmzsblog.cn/articles/2019/10/02/1569990873145.html)
@@ -43,12 +43,12 @@
 * [SpringCloud学习中遇到的一些bug](https://www.mmzsblog.cn/articles/2019/08/06/1565078225369.html)
 * [Git的使用](https://www.mmzsblog.cn/articles/2019/08/05/1564991521185.html)
 * [初级程序员需要知道的基本代码规范](https://www.mmzsblog.cn/articles/2019/08/08/1565255455760.html)
-* [玩转SpringBoot之整合Mybatis拦截器对数据库水平分表](https://www.mmzsblog.cn/articles/2019/08/08/1565249428372.html)
 * [SpringCloud（十）：SringCloud Config](https://www.mmzsblog.cn/articles/2019/08/06/1565078155409.html)
 * [礼盒抖动动画（CocosCreator）](https://www.mmzsblog.cn/articles/2019/08/09/1565360457756.html)
+* [玩转SpringBoot之整合Mybatis拦截器对数据库水平分表](https://www.mmzsblog.cn/articles/2019/08/08/1565249428372.html)
 * [整理开发中遇到的所有问题之后台（持续整理中）](https://www.mmzsblog.cn/articles/2019/08/08/1565256407388.html)
-* [ftp上传与下载文件](https://www.mmzsblog.cn/articles/2019/08/20/1566309291864.html)
 * [翻牌动画（CocosCreator）](https://www.mmzsblog.cn/articles/2019/08/09/1565360665278.html)
+* [ftp上传与下载文件](https://www.mmzsblog.cn/articles/2019/08/20/1566309291864.html)
 * [Spring注解开发-查询手册及源码分析](https://www.mmzsblog.cn/articles/2019/08/07/1565162136695.html)
 * [玩转SpringBoot之MyBatisplus自动化构建工具](https://www.mmzsblog.cn/articles/2019/08/08/1565236458796.html)
 * [拖动水滴给土地浇水（CocosCreator）](https://www.mmzsblog.cn/articles/2019/08/09/1565360848369.html)
@@ -79,4 +79,4 @@
 
 ---
 
-本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Solo](https://github.com/88250/solo) 自动进行同步更新 ❤️ 
