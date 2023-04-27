@@ -79,4 +79,4 @@
 
 ---
 
-本仓库通过 [Solo](https://github.com/88250/solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Solo](https://www.mmzsblog.cn/) 自动进行同步更新 ❤️ 
